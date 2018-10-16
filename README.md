@@ -2,13 +2,9 @@
 
 # 目录
 
-[动画库](#1  动画库)
 
-- [Hover动画](##1-1 Hover动画)
 
-- [1-2  滚动展示动画](##1-2  滚动展示动画)
-
-#  1  动画库
+#  动画库
 
 [Animate.css](https://github.com/daneden/animate.css)
 
@@ -38,7 +34,7 @@
 
 - 一个功能齐全的 JavaScript 动画套件 ,`$.animate()`增强版
 
-## 1-1 Hover动画
+## - Hover动画
 
 [hover3d](https://github.com/ariona/hover3d)
 
@@ -56,7 +52,7 @@
 
 - [Three.js](https://www.zhihu.com/question/36367846) 和 [TweenMax.js](https://www.tweenmax.com.cn/) 配合使用的敲级酷炫的图片悬停效果
 
-## 1-2  滚动展示动画
+## - 滚动展示动画
 
 [Wow.js](https://github.com/matthieua/WOW)
 
@@ -78,7 +74,7 @@
 
 - 当页面往下滚动的时候，crossfade.js 会让图片渐渐的模糊，就像是将要淡出的感觉；当页面往上滚动的时候，图片又会变的清晰。
 
-##  1-3  其他
+##  - 其他
 
 [StackBlur.js](https://github.com/flozz/StackBlur)
 
@@ -89,7 +85,9 @@
 - 数字老虎机滚动
 
 
-# 2  滚动库
+
+
+# 滚动库
 
 [Iscroll.js](https://github.com/cubiq/iscroll)
 
@@ -119,7 +117,7 @@
 
 - jQ滚动条样式美化
 
-## 2-1  全屏滚动
+## - 全屏滚动
 
 [fullPage](https://github.com/alvarotrigo/fullPage.js)
 
@@ -127,7 +125,7 @@
 
 
 
-# 3  轮播
+# 轮播
 
 [Swiper](https://github.com/nolimits4web/swiper)
 
@@ -147,7 +145,7 @@
 
 
 
-# 4  弹出框
+# 弹出框
 
 [layer](http://layer.layui.com/)
 
@@ -162,7 +160,7 @@ IZI
 - 最好看的基于jQuery的弹出框，不绷
 - [iziModal](https://github.com/dolce/iziModal)、[iziToast](https://github.com/dolce/iziToast)
 
-## 4-1  消息通知
+## - 消息通知
 
 [notyf](https://github.com/caroso1222/notyf)
 
@@ -181,7 +179,7 @@ IZI
 - 顶部出现
 - 基于jQuery，支持多种主题，文字和表单
 
-## 4-2  Alert
+## - Alert
 
 [sweetalert](https://github.com/t4t5/sweetalert)
 
@@ -189,43 +187,11 @@ IZI
 
 
 
-# 5  Select
-
-## 5-1  下拉选择
-
-[select2](https://github.com/select2/select2)
-
-- 全场最佳
 
 
+# 表单处理
 
-## 5-2  级联选择器
-
-[ustbhuangyi/picker](https://github.com/ustbhuangyi/picker)
-
-- 移动端最好用的的筛选器组件，高仿 ios 的 UIPickerView ，非常流畅的体验。
-
-[distpicker](https://github.com/fengyuanchen/distpicker)
-
-- 省市区三级联动
-
-##  5-3  颜色选择
-
-[bootstrap-colorpicker](https://github.com/farbelous/bootstrap-colorpicker)
-
-- Bootstrap 4的组件
-
-## 5-4  时间选择
-
-[laydate](https://www.layui.com/laydate/)
-
-- layui的时间选择组件
-
-
-
-# 6  表单处理
-
-## 6-1  表单验证
+## - 表单验证
 
 [validator.js](https://github.com/chriso/validator.js)
 
@@ -239,15 +205,75 @@ IZI
 
 - 国产精品，基于jQuery
 
-## 6-2  日期处理
+## - 日期处理
 
 [moment](https://github.com/moment/moment)
 
-- Moment.js 是一个解析，验证，操作和显示日期和时间的 JavaScript 类库。
+- Moment.js 是一个解析，验证，操作和显示日期和时间的 JavaScript 类库
+
+[dayjs](https://github.com/iamkun/dayjs)
+
+- 2KB，中文文档
+
+## - 按钮
+
+[bttn.css)](https://github.com/ganapativs/bttn.css)
+
+- 按钮样式库
+
+## - Select
+
+### -- 下拉选择
+
+[select2](https://github.com/select2/select2)
+
+- 全场最佳
+
+### -- 级联选择器
+
+[ustbhuangyi/picker](https://github.com/ustbhuangyi/picker)
+
+- 移动端最好用的的筛选器组件，高仿 ios 的 UIPickerView ，非常流畅的体验。
+
+[distpicker](https://github.com/fengyuanchen/distpicker)
+
+- 省市区三级联动
+
+### -- 颜色选择
+
+[bootstrap-colorpicker](https://github.com/farbelous/bootstrap-colorpicker)
+
+- Bootstrap 4的组件
+
+### -- 时间选择
+
+[laydate](https://www.layui.com/laydate/)
+
+- layui的时间选择组件
 
 
 
-# 7  分页
+
+
+# AJAX
+
+[axios](https://github.com/axios/axios)
+
+- 使用`promise`语法的 ajax 封装
+
+## - jsonp
+
+[jsonp](https://github.com/webmodules/jsonp)
+
+- 简单的jsonp实现
+
+[jsonp-sandbox](https://github.com/aui/jsonp-sandbox)
+
+- 可以安全加载（防xss）jsonp的运行沙盒
+
+
+
+# 分页
 
 [paginationjs](https://github.com/superRaytin/paginationjs)
 
@@ -255,7 +281,7 @@ IZI
 
 
 
-# 8  富文本
+# 富文本
 
 [wangEditor](https://github.com/wangfupeng1988/wangEditor/)
 
@@ -273,7 +299,7 @@ IZI
 
 - 专注文本编辑，只有文本编辑
 
-## 8-1  Markdown
+## - Markdown
 
 [editor.md](https://github.com/pandao/editor.md)
 
@@ -281,7 +307,7 @@ IZI
 
 
 
-# 9 树形结构
+# 树形结构
 
 [zTree_v3](https://github.com/zTree/zTree_v3)
 
@@ -289,15 +315,24 @@ IZI
 
 
 
-# 10  图片
+# 定位
 
-## 10-1  预加载
+[tether](https://github.com/HubSpot/tether)
+
+- 增强绝对定位的功能
+- 自带选择框、下拉框、工具提示
+
+
+
+# 图片
+
+## - 预加载
 
 [PreloadJS](https://github.com/CreateJS/PreloadJS)
 
 - [CreateJs](http://www.createjs.cc/) 的 预加载模块
 
-## 10-2  懒加载
+## - 懒加载
 
 [jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
 
@@ -307,13 +342,17 @@ IZI
 
 - 个人制作的方法，即开即用
 
-## 10-3  瀑布流
+## - 瀑布流
 
 [masonry](https://github.com/desandro/masonry)
 
 - 比较好的一个库，[中文说明](https://www.cnblogs.com/cjc917/p/7402026.html)
 
-## 10-4  相册
+## - 相册
+
+[fancybox](https://github.com/fancyapps/fancybox)
+
+- 基于jQuery
 
 [viewerjs](https://github.com/fengyuanchen/viewerjs)
 
@@ -323,9 +362,25 @@ IZI
 
 - 移动端
 
+## - 主题色提取
+
+[rgbaster.js](https://github.com/briangonzalez/rgbaster.js)
+
+- 不基于jQuery
+
+[color-thief](https://github.com/lokesh/color-thief)
+
+- 高赞，名字骚
+
+## - 占位
+
+[holder](https://github.com/imsky/holder)
+
+- 图片占位符插件
 
 
-# 11  导航
+
+# 导航
 
 [okayNav](https://github.com/VPenkov/okayNav)
 
@@ -333,7 +388,7 @@ IZI
 
 
 
-# 12  视频
+# 视频
 
 [chimee](https://github.com/Chimeejs/chimee)
 
@@ -347,7 +402,7 @@ IZI
 
 - 视频存储平台，直接加入代码中插入视频
 
-## 12-1  带弹幕
+## - 带弹幕
 
 [DanmuPlayer](https://github.com/chiruom/DanmuPlayer)
 
@@ -359,7 +414,7 @@ IZI
 
 
 
-# 13  复制粘贴
+# 复制粘贴
 
 [clipboard.js](https://github.com/zenorocha/clipboard.js/)
 
@@ -367,15 +422,15 @@ IZI
 
 
 
-# 14  条码
+# 条码
 
-## 14-1  条形码
+## - 条形码
 
 [JsBarcode](https://github.com/lindell/JsBarcode)
 
 - 条形码生成，可以爱浏览器和Node运行
 
-## 14-2  二维码
+## - 二维码
 
 [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode)
 
@@ -383,7 +438,7 @@ IZI
 
 
 
-# 15  拖拽
+# 拖拽
 
 [draggabilly](https://github.com/desandro/draggabilly)
 
@@ -395,15 +450,19 @@ IZI
 
 
 
-# 16  移动端触摸事件
+# 移动端触摸事件
 
 [hammer.js](https://github.com/hammerjs/hammer.js)
 
 - 移动端触摸手势检测，[中文说明](https://www.jianshu.com/p/0b0b9364f967)
 
+[fastclick](https://github.com/ftlabs/fastclick)
+
+- 消除移动端点击300ms延迟
 
 
-# 17  文件上传
+
+# 文件上传
 
 [webuploader](https://github.com/fex-team/webuploader/)
 
@@ -411,15 +470,15 @@ IZI
 
 
 
-# 18  代码
+# 代码
 
-## 18-1  代码高亮
+## - 代码高亮
 
 [highlight.js](https://github.com/highlightjs/highlight.js)
 
 - 在HTML中展示代码
 
-## 18-2  代码分享
+## - 代码分享
 
 [carbon](https://github.com/dawnlabs/carbon)
 
@@ -427,7 +486,7 @@ IZI
 
 
 
-# 19  前端国际化
+# 前端国际化
 
 [i18next](https://github.com/i18next/i18next)
 
@@ -440,7 +499,7 @@ IZI
 
 
 
-# 20  地图
+#  地图
 
 [百度地图](http://lbsyun.baidu.com/)
 
@@ -452,5 +511,164 @@ IZI
 
 
 
+# 即时通讯
+
+[layim](http://layim.layui.com/)
+
+- LayIM 是基于 layui 的一款独立的付费组件，它是网页即时通讯（WebIM） UI 解决方案，包含丰富的前端接口，您购买授权后得到的是一套前端源代码，而后端程序需自写。
+
+[闲聊么](https://www.xianliao.me/)
+
+- 聊天室
 
 
+
+# 数据可视化
+
+[echarts](https://github.com/apache/incubator-echarts)
+
+- 百度出品，文档有点超啊
+
+[antv](https://antv.alipay.com/zh-cn/index.html)
+
+- 蚂蚁金服出品，图表参数稍微好配置一点
+
+
+
+# PDF阅读
+
+[pdf.js](https://github.com/mozilla/pdf.js)
+
+- P一其随
+
+
+
+# 前端存储
+
+[storage](https://github.com/ustbhuangyi/storage)
+
+- 封装了sessionStorage和localStorage
+
+[store.js](https://github.com/jaywcjlove/store.js)
+
+- 封装了localstorage，提供强大的API
+
+[localForage](https://github.com/localForage/localForage)
+
+- 离线存储的改进，包含[IndexDB](https://www.zhangxinxu.com/wordpress/2017/07/html5-indexeddb-js-example/)、LocalStorage
+
+
+
+# 数据模拟
+
+[easy-mock](https://github.com/easy-mock/easy-mock)
+
+[Mock](https://github.com/nuysoft/Mock)
+
+[yapi](https://yapi.ymfe.org/)
+
+- 鑫神推荐
+
+
+
+# 分享
+
+[bshare](http://www.bshare.cn/)
+
+- jiaThis下线，首选
+
+[share.js](https://github.com/overtrue/share.js/)
+
+- 好看
+
+
+
+# 评论
+
+[gitalk](https://github.com/gitalk/gitalk)
+
+- 基于 GitHub Issue 和 Preact 开发的评论插件。
+- GitHub账号登录
+
+[畅言](https://changyan.kuaizhan.com/)
+
+- 定制化
+- 自带过滤
+
+[来必力](http://www.laibili.com.cn)
+
+- 无需注册,使用已有社交账号便可方便快捷地登录。
+
+
+
+# 引导
+
+[tourist](https://github.com/easelinc/tourist)
+
+- Bootstrap风格
+
+
+
+# 其他
+
+[ieBetter](https://github.com/zhangxinxu/ieBetter.js)
+
+- H5新特性兼容ie6~8
+
+[classList.js](https://github.com/eligrey/classList.js/)
+
+- H5 `classlist`属性增强
+
+[object-fit](https://github.com/anselmh/object-fit)
+
+- css `object-fit` 属性增强
+
+[pinyin](https://github.com/hotoo/pinyin)
+
+- 转换中文字符为拼音。可以用于汉字注音、排序、检索。
+
+
+
+# 组件库
+
+[Bootstrap](http://www.bootcss.com/)
+
+- 响应式
+
+[Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
+
+- 响应式
+
+[Flat-UI](https://github.com/designmodo/Flat-UI)
+
+- pc
+
+[ant-design](https://github.com/ant-design/ant-design)
+
+- pc，移动端有[ant-design-mobile](https://github.com/ant-design/ant-design-mobile)
+
+[bulma](https://github.com/jgthms/bulma)
+
+- 移动，推荐
+
+## - Vue
+
+[vueg](https://github.com/jaweii/vueg#/vueg)
+
+- Vue转场
+
+[cube-ui](https://github.com/didi/cube-ui)
+
+- 移动
+
+[element](https://github.com/ElemeFE/element)
+
+- pc、管理系统
+
+[mint-ui](https://github.com/ElemeFE/mint-ui)
+
+- 移动
+
+[iview](https://github.com/iview/iview)
+
+- pc、管理系统
