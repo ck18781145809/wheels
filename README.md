@@ -1,6 +1,7 @@
+常用的插件整理一下~
+
 # 目录
 
-- [目录](#目录)
 - [动画库](#动画库)
     - [- Hover动画](#--Hover动画)
     - [- 滚动展示动画](#--滚动展示动画)
@@ -35,6 +36,7 @@
     - [- 主题色提取](#--主题色提取)
     - [- 占位](#--占位)
 - [导航](#导航)
+- [唤醒APP](#唤醒APP)
 - [视频](#视频)
     - [- 带弹幕](#--带弹幕)
 - [复制粘贴](#复制粘贴)
@@ -56,11 +58,13 @@
 - [数据模拟](#数据模拟)
 - [分享](#分享)
 - [评论](#评论)
+    - [代码截图分享](#代码截图分享)
 - [引导](#引导)
 - [其他](#其他)
 - [组件库](#组件库)
-    - [- Vue](#--Vue)
-    常用的插件整理一下~
+    - [Vue](#Vue)
+    - [React](#React)
+    - [小程序](#小程序)
 
 
 
@@ -359,6 +363,10 @@ IZI
 
 - 专注文本编辑，只有文本编辑
 
+[slate](https://github.com/ianstormtaylor/slate)
+
+- UI好看，高度定制
+
 ## - Markdown
 
 [editor.md](https://github.com/pandao/editor.md)
@@ -446,7 +454,11 @@ IZI
 
 - 最OK的响应式导航菜单，不基于jQuery
 
+# 唤醒APP
 
+[callapp-lib](https://github.com/suanmei/callapp-lib)
+
+- 大多数情况下能唤醒大多数APP
 
 # 视频
 
@@ -659,6 +671,12 @@ IZI
 
 - 无需注册,使用已有社交账号便可方便快捷地登录。
 
+## 代码截图分享
+
+[carbon](https://github.com/dawnlabs/carbon)
+
+- 创建漂亮的代码分享图片
+
 
 
 # 引导
@@ -692,6 +710,11 @@ IZI
 - README.md目录生成
 - 需要Python环境
 
+[eruda](https://github.com/liriliri/eruda)
+
+- 专为手机网页前端设计的调试面板，类似 DevTools 的迷你版
+- 捕获 console 日志、检查元素状态、捕获XHR请求、显示本地存储和 Cookie 信息等等。
+
 
 
 # 组件库
@@ -699,6 +722,11 @@ IZI
 [Bootstrap](http://www.bootcss.com/)
 
 - 响应式
+
+[lulu-ui](https://github.com/yued-fe/lulu)
+
+- 兼容ie7/8
+- 面向用户，阅文出品
 
 [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
 
@@ -724,7 +752,7 @@ IZI
 
 - 移动，微信组件
 
-## - Vue
+## Vue
 
 [vueg](https://github.com/jaweii/vueg#/vueg)
 
@@ -745,5 +773,40 @@ IZI
 [iview](https://github.com/iview/iview)
 
 - pc、管理系统
+
+[muse-ui](https://github.com/museui/muse-ui)
+
+- materia-ui风格
+- pc、面向用户
+
+[vant](https://github.com/youzan/vant)
+
+- 有赞团队
+
+## React
+
+[material-ui](https://github.com/mui-org/material-ui)
+
+- 最符合material-design
+
+## 小程序
+
+[vant-weapp](https://github.com/youzan/vant-weapp)
+
+- 有赞团队
+
+[iview-weapp](https://github.com/TalkingData/iview-weapp)
+
+- 一套高质量的微信小程序 UI 组件库 
+
+[minui](https://github.com/meili/minui)
+
+- 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
+
+[wux-weapp](https://github.com/wux-weapp/wux-weapp)
+
+- 组件比较丰富，值得使用。
+
+
 
 
