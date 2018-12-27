@@ -138,6 +138,12 @@
 
 - 当页面往下滚动的时候，crossfade.js 会让图片渐渐的模糊，就像是将要淡出的感觉；当页面往上滚动的时候，图片又会变的清晰。
 
+## - 文本动画
+
+[textillate](https://github.com/jschr/textillate/)
+
+- 文本逐字动画
+
 ##  - 其他
 
 [StackBlur.js](https://github.com/flozz/StackBlur)
