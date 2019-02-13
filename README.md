@@ -98,6 +98,12 @@
 
 - 一个功能齐全的 JavaScript 动画套件 ,`$.animate()`增强版
 
+[bindingx](https://github.com/alibaba/bindingx)
+
+- 在移动端（app）使复杂交互操作以60fps的帧率流畅执行的解决方案
+- 水波纹，header的收放等
+- 适用于weex，rn。貌似vue也可以。
+
 ## - Hover动画
 
 [hover3d](https://github.com/ariona/hover3d)
