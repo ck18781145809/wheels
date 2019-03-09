@@ -63,6 +63,7 @@
 * [分享](#%E5%88%86%E4%BA%AB)
 * [评论](#%E8%AF%84%E8%AE%BA)
   * [代码截图分享](#%E4%BB%A3%E7%A0%81%E6%88%AA%E5%9B%BE%E5%88%86%E4%BA%AB)
+* [计算](#%E8%AE%A1%E7%AE%97)
 * [引导](#%E5%BC%95%E5%AF%BC)
 * [其他](#%E5%85%B6%E4%BB%96)
 * [组件库](#%E7%BB%84%E4%BB%B6%E5%BA%93)
@@ -738,6 +739,11 @@ IZI
 
 - README.md目录生成
 - 需要Python环境
+
+[github-markdown-toc](https://github.com/ekalinin/github-markdown-toc.go)
+
+- README.md目录生成
+- 多种语言
 
 [eruda](https://github.com/liriliri/eruda)
 
