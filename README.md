@@ -699,6 +699,15 @@ IZI
 
 
 
+# 计算
+
+[number-precision](https://github.com/nefe/number-precision)
+
+- 超小体积
+- 完美支持浮点数的加减乘除、四舍五入等运算。
+
+
+
 # 引导
 
 [tourist](https://github.com/easelinc/tourist)
