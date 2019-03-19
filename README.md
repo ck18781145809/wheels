@@ -750,6 +750,11 @@ IZI
 - 专为手机网页前端设计的调试面板，类似 DevTools 的迷你版
 - 捕获 console 日志、检查元素状态、捕获XHR请求、显示本地存储和 Cookie 信息等等。
 
+[baiduyun](https://github.com/syhyz1990/baiduyun)
+
+- 油猴脚本
+- 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速
+
 
 
 # 组件库
