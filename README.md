@@ -3,6 +3,7 @@
 目录
 =================
 
+* [目录](#%E7%9B%AE%E5%BD%95)
 * [动画库](#%E5%8A%A8%E7%94%BB%E5%BA%93)
   * [\- Hover动画](#--hover%E5%8A%A8%E7%94%BB)
   * [\- 滚动展示动画](#--%E6%BB%9A%E5%8A%A8%E5%B1%95%E7%A4%BA%E5%8A%A8%E7%94%BB)
@@ -66,12 +67,11 @@
 * [计算](#%E8%AE%A1%E7%AE%97)
 * [引导](#%E5%BC%95%E5%AF%BC)
 * [其他](#%E5%85%B6%E4%BB%96)
+* [polyfill](#polyfill)
 * [组件库](#%E7%BB%84%E4%BB%B6%E5%BA%93)
   * [Vue](#vue)
   * [React](#react)
   * [小程序](#%E5%B0%8F%E7%A8%8B%E5%BA%8F)
-
-
 
 #  动画库
 
@@ -719,18 +719,6 @@ IZI
 
 # 其他
 
-[ieBetter](https://github.com/zhangxinxu/ieBetter.js)
-
-- H5新特性兼容ie6~8
-
-[classList.js](https://github.com/eligrey/classList.js/)
-
-- H5 `classlist`属性增强
-
-[object-fit](https://github.com/anselmh/object-fit)
-
-- css `object-fit` 属性增强
-
 [pinyin](https://github.com/hotoo/pinyin)
 
 - 转换中文字符为拼音。可以用于汉字注音、排序、检索。
@@ -754,6 +742,24 @@ IZI
 
 - 油猴脚本
 - 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速
+
+#  polyfill
+
+[focus-visible](https://github.com/WICG/focus-visible)
+
+- css伪类`:focus-visible`  polyfill
+
+[ieBetter](https://github.com/zhangxinxu/ieBetter.js)
+
+- H5新特性兼容ie6~8
+
+[classList.js](https://github.com/eligrey/classList.js/)
+
+- H5 `classlist`属性增强
+
+[object-fit](https://github.com/anselmh/object-fit)
+
+- css `object-fit` 属性增强
 
 
 
