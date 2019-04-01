@@ -743,6 +743,15 @@ IZI
 - 油猴脚本
 - 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速
 
+[shields](https://github.com/badges/shields)
+
+- readme徽章制作
+- 样式有限制
+
+[simple-icons](https://github.com/simple-icons/simple-icons)
+
+- 流行品牌的svg图标
+
 #  polyfill
 
 [focus-visible](https://github.com/WICG/focus-visible)
@@ -828,6 +837,14 @@ IZI
 [vant](https://github.com/youzan/vant)
 
 - 有赞团队
+
+[vux](https://github.com/airyland/vux)
+
+- 移动端
+
+[vuetify](https://github.com/vuetifyjs/vuetify)
+
+- pc
 
 ## React
 
