@@ -57,6 +57,10 @@
 
 - vue源码解析
 
+ [Vue - Table表格渲染上千数据优化](https://zhuanlan.zhihu.com/p/53455289)
+
+- 怎样在Vue中渲染大数据
+
 ### Webpack
 
 [easywebpack-multiple-html-boilerplate](https://github.com/hubcarl/easywebpack-multiple-html-boilerplate)
