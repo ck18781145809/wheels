@@ -1,6 +1,6 @@
 常用的插件整理一下，免得每次都花时间重新找~
 
-GitHub上面的文章在哟~
+GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/master/article.md)哟~
 
 -----
 
