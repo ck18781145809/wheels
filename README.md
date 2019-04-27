@@ -1,9 +1,12 @@
-常用的插件整理一下~
+常用的插件整理一下，免得每次都花时间重新找~
+
+GitHub上面的文章在哟~
+
+-----
 
 目录
 =================
 
-* [目录](#%E7%9B%AE%E5%BD%95)
 * [动画库](#%E5%8A%A8%E7%94%BB%E5%BA%93)
   * [\- Hover动画](#--hover%E5%8A%A8%E7%94%BB)
   * [\- 滚动展示动画](#--%E6%BB%9A%E5%8A%A8%E5%B1%95%E7%A4%BA%E5%8A%A8%E7%94%BB)
@@ -66,6 +69,8 @@
   * [代码截图分享](#%E4%BB%A3%E7%A0%81%E6%88%AA%E5%9B%BE%E5%88%86%E4%BA%AB)
 * [计算](#%E8%AE%A1%E7%AE%97)
 * [引导](#%E5%BC%95%E5%AF%BC)
+* [字体&amp;图标](#%E5%AD%97%E4%BD%93%E5%9B%BE%E6%A0%87)
+* [项目流程](#%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B)
 * [其他](#%E5%85%B6%E4%BB%96)
 * [polyfill](#polyfill)
 * [组件库](#%E7%BB%84%E4%BB%B6%E5%BA%93)
@@ -168,8 +173,6 @@
 [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders)
 
 - svg制作的loading图标
-
-
 
 
 # 滚动库
@@ -715,18 +718,32 @@ IZI
 
 - Bootstrap风格
 
+# 字体&图标
 
+[fontmin](https://github.com/ecomfe/fontmin-app)
+
+- 网易出品，中文生成字体文件
+- 桌面应用
+
+[simple-icons](https://github.com/simple-icons/simple-icons)
+
+- 流行品牌的svg图标
+
+# 项目流程
+
+[elf](https://github.com/o2team/elf)
+
+- 京东，h5项目快速构建
+
+[parcel](https://github.com/parcel-bundler/parcel)
+
+- 轻量级打包工具
 
 # 其他
 
 [pinyin](https://github.com/hotoo/pinyin)
 
 - 转换中文字符为拼音。可以用于汉字注音、排序、检索。
-
-[ghtoc](https://github.com/sk1418/ghtoc)
-
-- README.md目录生成
-- 需要Python环境
 
 [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
@@ -748,10 +765,6 @@ IZI
 - readme徽章制作
 - 样式有限制
 
-[simple-icons](https://github.com/simple-icons/simple-icons)
-
-- 流行品牌的svg图标
-
 #  polyfill
 
 [focus-visible](https://github.com/WICG/focus-visible)
@@ -769,6 +782,10 @@ IZI
 [object-fit](https://github.com/anselmh/object-fit)
 
 - css `object-fit` 属性增强
+
+[compass-flexbox](https://github.com/stevenbenisek/compass-flexbox)
+
+- 所有浏览器更好的支持flexbox
 
 
 
@@ -845,6 +862,11 @@ IZI
 [vuetify](https://github.com/vuetifyjs/vuetify)
 
 - pc
+
+[ant-design-vue](https://github.com/vueComponent/ant-design-vue)
+
+- pc
+- ant-design
 
 ## React
 
