@@ -97,6 +97,10 @@
 
 - 开发效率提升：Mac生产力工具链推荐
 
+[git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn)
+
+- git提交的时候使用emoji的指南
+
 
 
 # 博客
