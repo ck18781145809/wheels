@@ -78,6 +78,8 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
   * [React](#react)
   * [小程序](#%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
+- [Chrome插件](#chrome%E6%8F%92%E4%BB%B6)
+
 #  动画库
 
 [Animate.css](https://github.com/daneden/animate.css)
@@ -741,6 +743,10 @@ IZI
 
 # 其他
 
+[airbnb代码规范](https://github.com/airbnb/javascript)
+
+- 爱彼迎js代码规范
+
 [pinyin](https://github.com/hotoo/pinyin)
 
 - 转换中文字符为拼音。可以用于汉字注音、排序、检索。
@@ -754,11 +760,6 @@ IZI
 
 - 专为手机网页前端设计的调试面板，类似 DevTools 的迷你版
 - 捕获 console 日志、检查元素状态、捕获XHR请求、显示本地存储和 Cookie 信息等等。
-
-[baiduyun](https://github.com/syhyz1990/baiduyun)
-
-- 油猴脚本
-- 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速
 
 [shields](https://github.com/badges/shields)
 
@@ -908,6 +909,74 @@ IZI
 
 - 组件比较丰富，值得使用。
 
+# Chrome插件
 
+[ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
 
+- 网页拾色器
 
+[Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
+
+- 调整浏览器窗口大小
+
+[Lightshot](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp)
+
+- 截图
+
+[Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj)
+
+- 测距
+
+[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
+- 油猴
+
+[Click&Clean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod)
+
+- 清理浏览器
+
+[JetBrains IDE Support](https://chrome.google.com/webstore/detail/jetbrains-ide-support/hmhgeddbohgjknpmjagkdomcpobmllji)
+
+- webstorm网页调试
+- 一般来搞实时刷新
+
+[LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei)
+
+- 实时刷新
+
+[Allow-Control-Allow-Origin: *](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
+
+- 允许跨域
+
+[Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
+- Vue调试
+
+[Essential SEO Toolkit (SEO Analysis Tool)](https://chrome.google.com/webstore/detail/essential-seo-toolkit-seo/icagkiolfkmndbggheneeamfbnobcdma)
+
+- 集合SEO调试，性能分析（yslow，PageSpeed）等
+
+[Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screenshot/glgomjpomoahpeekneidkinhcfjnnhmb)
+
+- 整站截图
+
+[GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci)
+
+- 显示GitHub每个文件的大小
+
+[GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)
+
+- hover文件或作者的时候显示简介
+
+[Charset](https://chrome.google.com/webstore/detail/charset/oenllhgkiiljibhfagbfogdbchhdchml)
+
+- 改变当前页面编码
+
+[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+
+- 在GitHub项目中展示结构
+
+[baiduyun](https://github.com/syhyz1990/baiduyun)
+
+- 油猴脚本
+- 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速

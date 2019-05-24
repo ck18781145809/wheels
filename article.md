@@ -57,6 +57,10 @@
 
 - vue源码解析
 
+ [Vue - Table表格渲染上千数据优化](https://zhuanlan.zhihu.com/p/53455289)
+
+- 怎样在Vue中渲染大数据
+
 ### Webpack
 
 [easywebpack-multiple-html-boilerplate](https://github.com/hubcarl/easywebpack-multiple-html-boilerplate)
@@ -92,6 +96,10 @@
 [tool](https://github.com/Louiszhai/tool)
 
 - 开发效率提升：Mac生产力工具链推荐
+
+[git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn)
+
+- git提交的时候使用emoji的指南
 
 
 
