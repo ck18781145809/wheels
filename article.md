@@ -10,6 +10,7 @@
     * [Gulp](#gulp)
     * [Vue](#vue)
     * [Webpack](#webpack)
+    * [算法](#%E7%AE%97%E6%B3%95)
   * [代码规则](#%E4%BB%A3%E7%A0%81%E8%A7%84%E5%88%99)
   * [HTML &amp; CSS](#html--css)
   * [其他](#%E5%85%B6%E4%BB%96)
@@ -70,6 +71,12 @@
 [webpack-demos](https://github.com/ruanyf/webpack-demos)
 
 - 阮一峰webpack demo
+
+### 算法
+
+[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+
+- 图解算法
 
 ## 代码规则
 
