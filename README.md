@@ -15,6 +15,9 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
   * [\- 其他](#--%E5%85%B6%E4%BB%96)
 * [滚动库](#%E6%BB%9A%E5%8A%A8%E5%BA%93)
   * [\- 全屏滚动](#--%E5%85%A8%E5%B1%8F%E6%BB%9A%E5%8A%A8)
+
+- [纯CSS背景](#%E7%BA%AFcss%E8%83%8C%E6%99%AF)
+
 * [轮播](#%E8%BD%AE%E6%92%AD)
 * [弹出框](#%E5%BC%B9%E5%87%BA%E6%A1%86)
   * [\- 消息通知](#--%E6%B6%88%E6%81%AF%E9%80%9A%E7%9F%A5)
@@ -42,6 +45,7 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
   * [\- 相册](#--%E7%9B%B8%E5%86%8C)
   * [\- 主题色提取](#--%E4%B8%BB%E9%A2%98%E8%89%B2%E6%8F%90%E5%8F%96)
   * [\- 占位](#--%E5%8D%A0%E4%BD%8D)
+  * [\- 滤镜](#--%E6%BB%A4%E9%95%9C)
 * [导航](#%E5%AF%BC%E8%88%AA)
 * [唤醒APP](#%E5%94%A4%E9%86%92app)
 * [视频](#%E8%A7%86%E9%A2%91)
@@ -206,6 +210,12 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
 [MalihuCustomScrollbarPlugin](https://github.com/malihu/malihu-custom-scrollbar-plugin)
 
 - jQ滚动条样式美化
+
+# 纯CSS背景
+
+[css3patterns](https://github.com/LeaVerou/css3patterns)
+
+- CSS一姐 [LeaVerou](https://github.com/LeaVerou) 用纯CSS写的一套背景图案
 
 ## - 全屏滚动
 
@@ -472,7 +482,11 @@ IZI
 
 - 图片占位符插件
 
+## - 滤镜
 
+[CSSgram](https://github.com/una/CSSgram)
+
+- CSS混合模式实现的Instagram的26种滤镜
 
 # 导航
 
