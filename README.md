@@ -23,6 +23,7 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
   * [\- 消息通知](#--%E6%B6%88%E6%81%AF%E9%80%9A%E7%9F%A5)
   * [\- Alert](#--alert)
 * [表单处理](#%E8%A1%A8%E5%8D%95%E5%A4%84%E7%90%86)
+  * [\- 数据加密](#--%E6%95%B0%E6%8D%AE%E5%8A%A0%E5%AF%86)
   * [\- 表单验证](#--%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81)
   * [\- 日期处理](#--%E6%97%A5%E6%9C%9F%E5%A4%84%E7%90%86)
   * [\- 按钮](#--%E6%8C%89%E9%92%AE)
@@ -291,6 +292,12 @@ IZI
 
 # 表单处理
 
+## - 数据加密
+
+[jsencrypt](https://github.com/travist/jsencrypt)
+
+- OpenSSL生成的实际私钥对和公钥对
+
 ## - 表单验证
 
 [validator.js](https://github.com/chriso/validator.js)
@@ -317,7 +324,7 @@ IZI
 
 ## - 按钮
 
-[bttn.css)](https://github.com/ganapativs/bttn.css)
+[bttn.css](https://github.com/ganapativs/bttn.css)
 
 - 按钮样式库
 
