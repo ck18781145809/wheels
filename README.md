@@ -7,6 +7,7 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
 目录
 =================
 
+* [Layout](#Layout)
 * [动画库](#%E5%8A%A8%E7%94%BB%E5%BA%93)
   * [\- Hover动画](#--hover%E5%8A%A8%E7%94%BB)
   * [\- 滚动展示动画](#--%E6%BB%9A%E5%8A%A8%E5%B1%95%E7%A4%BA%E5%8A%A8%E7%94%BB)
@@ -85,6 +86,12 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
   * [小程序](#%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
 - [Chrome插件](#chrome%E6%8F%92%E4%BB%B6)
+
+# Layout
+
+[kitecss](https://github.com/hiloki/kitecss)
+
+- 兼容IE8+的flex替代方案
 
 #  动画库
 
