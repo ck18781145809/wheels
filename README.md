@@ -79,6 +79,7 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
 * [项目流程](#%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B)
 * [其他](#%E5%85%B6%E4%BB%96)
 * [polyfill](#polyfill)
+* [Gulp](#Gulp)
 * [Eslint](#Eslint)
 * [组件库](#%E7%BB%84%E4%BB%B6%E5%BA%93)
   * [Vue](#vue)
@@ -660,7 +661,15 @@ IZI
 
 - 蚂蚁金服出品，图表参数稍微好配置一点
 
+[SandDance](https://sanddance.js.org/ )
 
+- 微软出品
+- 图表类型很少，强在3d效果
+
+[roughViz]( https://github.com/jwilber/roughViz )
+
+- 手绘风图表
+- 支持 Vue 和 React
 
 # PDF阅读
 
@@ -826,6 +835,12 @@ IZI
 
 
 
+# Gulp
+
+[use-gulp ]( https://github.com/Platform-CUF/use-gulp)
+
+- gulp 插件整理
+
 # Eslint
 
 [eslint](https://github.com/eslint/eslint)
@@ -877,11 +892,68 @@ IZI
 
 - 移动，微信组件
 
-## Vue
+## React
+
+[material-ui](https://github.com/mui-org/material-ui)
+
+- 最符合material-design
+
+## 小程序
+
+[vant-weapp](https://github.com/youzan/vant-weapp)
+
+- 有赞团队
+
+[iview-weapp](https://github.com/TalkingData/iview-weapp)
+
+- 一套高质量的微信小程序 UI 组件库 
+
+[minui](https://github.com/meili/minui)
+
+- 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
+
+[wux-weapp](https://github.com/wux-weapp/wux-weapp)
+
+- 组件比较丰富，值得使用。
+
+# VUE
+
+## 插件
 
 [vueg](https://github.com/jaweii/vueg#/vueg)
 
 - Vue转场
+
+[cssfx]( https://github.com/jolaleye/cssfx )
+
+- 常用按钮hover、文字effect、loading动画组件
+
+[handsontable ](  https://github.com/handsontable/handsontable  )
+
+-   Handsontable是用于Web应用程序的JavaScript数据网格组件。 
+-  支持所有的标准操作，增删改查以及过滤排序，可以按需定制。 
+-  可以导出为 csv 文件
+
+[sheetjs]( https://github.com/SheetJS/sheetjs )
+
+-  SheetJS是一个浏览器操作excel文件的JS库，支持每种Excel文件格式；
+- 修改后能另存为 xlsx、xlsb、xls、ods、fods格式
+
+[vue-bigdata-table]( https://github.com/lison16/vue-bigdata-table )
+
+-  基于Vue.js的百万级数据表格组件，支持编辑、筛选、过滤、粘贴、拖动调整列宽等多种功能 
+- 固定表头和列
+
+[Mini Music Player]( https://codepen.io/JavaScriptJunkie/pen/qBWrRyg?__cf_chl_jschl_tk__=18657b00fd09c74cea6a7c3a90ea035047c42c0d-1575595345-0-Af-LEVuwxO-HYZZFjf-iTJBkljP7P_DTTUGQHA6GDlF65aKi3kuZtJhfQF5Pq2MSFRZj8DF9Tig_rnyw-EmPBa_lgjjDjhUMPwLW_dYJxugyBu-SSA100NxIa_doA6uuOVt3YwIbVK1izAD2n6vOKcnlTanHfngLnPO-tugb8YV_nAKZa38i7sbEBOFZuaNQAarOI6vIQo9MZDC8OowFqe4_lVHlN_WnwkTVePHiKUKPVKom-B-kAnhXpDKL9Y8Ecowsn7fEs2IPIpdNkqsidcvZyuJ2FiSdu0fu4qigT1wZBRiXWVF8i54SA1Q4lOQcxwDCc7Je1_FDyiK32Xo5STZTjpi1uHPBxjq8oj5fi1k2 )
+
+-  国外友人写的一个`Vue.js`音乐播放器，好看的不得了 
+
+[vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard)
+
+- 炒鸡好看的卡片验证
+-  银行卡
+
+## 组件库
 
 [cube-ui](https://github.com/didi/cube-ui)
 
@@ -920,30 +992,6 @@ IZI
 
 - pc
 - ant-design
-
-## React
-
-[material-ui](https://github.com/mui-org/material-ui)
-
-- 最符合material-design
-
-## 小程序
-
-[vant-weapp](https://github.com/youzan/vant-weapp)
-
-- 有赞团队
-
-[iview-weapp](https://github.com/TalkingData/iview-weapp)
-
-- 一套高质量的微信小程序 UI 组件库 
-
-[minui](https://github.com/meili/minui)
-
-- 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
-
-[wux-weapp](https://github.com/wux-weapp/wux-weapp)
-
-- 组件比较丰富，值得使用。
 
 # Chrome插件
 
