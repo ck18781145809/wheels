@@ -104,6 +104,11 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
 
 - 一个强大的、轻量级的用来制作动画的javascript库
 
+[GreenSock](https://greensock.com/docs/ )
+
+- Tween，Timeline
+- 时间线控制动画流程
+
 [Magic.css](https://github.com/miniMAC/magic)
 
 - css3 animation动画库
@@ -952,6 +957,10 @@ IZI
 
 - 炒鸡好看的卡片验证
 -  银行卡
+
+[typed.js](https://github.com/mattboldt/typed.js )
+
+-  Typed是一个专注打字动画的库
 
 ## 组件库
 
