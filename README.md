@@ -7,7 +7,7 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
 目录
 =================
 
-* [Layout](#Layout)
+* [Layout](#layout)
 * [动画库](#%E5%8A%A8%E7%94%BB%E5%BA%93)
   * [\- Hover动画](#--hover%E5%8A%A8%E7%94%BB)
   * [\- 滚动展示动画](#--%E6%BB%9A%E5%8A%A8%E5%B1%95%E7%A4%BA%E5%8A%A8%E7%94%BB)
@@ -15,14 +15,13 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
   * [\- 文本动画](#--%E6%96%87%E6%9C%AC%E5%8A%A8%E7%94%BB)
   * [\- 其他](#--%E5%85%B6%E4%BB%96)
 * [滚动库](#%E6%BB%9A%E5%8A%A8%E5%BA%93)
+* [纯CSS背景](#%E7%BA%AFcss%E8%83%8C%E6%99%AF)
   * [\- 全屏滚动](#--%E5%85%A8%E5%B1%8F%E6%BB%9A%E5%8A%A8)
-
-- [纯CSS背景](#%E7%BA%AFcss%E8%83%8C%E6%99%AF)
-
 * [轮播](#%E8%BD%AE%E6%92%AD)
 * [弹出框](#%E5%BC%B9%E5%87%BA%E6%A1%86)
   * [\- 消息通知](#--%E6%B6%88%E6%81%AF%E9%80%9A%E7%9F%A5)
   * [\- Alert](#--alert)
+  * [\- Popper](#--popper)
 * [表单处理](#%E8%A1%A8%E5%8D%95%E5%A4%84%E7%90%86)
   * [\- 数据加密](#--%E6%95%B0%E6%8D%AE%E5%8A%A0%E5%AF%86)
   * [\- 表单验证](#--%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81)
@@ -57,7 +56,8 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
   * [\- 条形码](#--%E6%9D%A1%E5%BD%A2%E7%A0%81)
   * [\- 二维码](#--%E4%BA%8C%E7%BB%B4%E7%A0%81)
 * [拖拽](#%E6%8B%96%E6%8B%BD)
-* [移动端触摸事件](#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%A6%E6%91%B8%E4%BA%8B%E4%BB%B6)
+* [移动端触摸事件](#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%A6%E6%91%B8%E4%BA%8B%E4%BB
+%B6)
 * [文件上传](#%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0)
 * [代码](#%E4%BB%A3%E7%A0%81)
   * [\- 代码高亮](#--%E4%BB%A3%E7%A0%81%E9%AB%98%E4%BA%AE)
@@ -77,16 +77,18 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
 * [Flutter](#flutter)
 * [字体&amp;图标](#%E5%AD%97%E4%BD%93%E5%9B%BE%E6%A0%87)
 * [项目流程](#%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B)
+* [人脸识别](#%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB)
 * [其他](#%E5%85%B6%E4%BB%96)
 * [polyfill](#polyfill)
-* [Gulp](#Gulp)
-* [Eslint](#Eslint)
+* [Gulp](#gulp)
+* [Eslint](#eslint)
 * [组件库](#%E7%BB%84%E4%BB%B6%E5%BA%93)
-  * [Vue](#vue)
   * [React](#react)
   * [小程序](#%E5%B0%8F%E7%A8%8B%E5%BA%8F)
-
-- [Chrome插件](#chrome%E6%8F%92%E4%BB%B6)
+* [VUE](#vue)
+  * [插件](#%E6%8F%92%E4%BB%B6)
+  * [组件库](#%E7%BB%84%E4%BB%B6%E5%BA%93-1)
+* [Chrome插件](#chrome%E6%8F%92%E4%BB%B6)
 
 # Layout
 
@@ -300,6 +302,12 @@ IZI
 
 - 好看好用
 
+## - Popper
+
+ [popper-core](https://github.com/popperjs/popper-core)
+
+- 只有3kb
+
 
 
 
@@ -509,6 +517,10 @@ IZI
 
 - CSS混合模式实现的Instagram的26种滤镜
 
+## - Editor
+
+[tui.image-editor](https://github.com/nhn/tui.image-editor)
+
 # 导航
 
 [okayNav](https://github.com/VPenkov/okayNav)
@@ -600,6 +612,10 @@ IZI
 [webuploader](https://github.com/fex-team/webuploader/)
 
 - 简单的以HTML5为主，FLASH为辅的现代文件上传组件,兼容性好
+
+[filepond](https://github.com/pqina/filepond )
+
+- 好看就完了
 
 
 
@@ -791,6 +807,13 @@ IZI
 
 - 轻量级打包工具
 
+# 人脸识别
+
+[face-api](https://github.com/justadudewhohacks/face-api.js )
+
+- 浏览器运行的人脸识别库
+- 封装 tensortflow.js人脸识别核心库
+
 # 其他
 
 [airbnb代码规范](https://github.com/airbnb/javascript)
@@ -837,6 +860,10 @@ IZI
 [compass-flexbox](https://github.com/stevenbenisek/compass-flexbox)
 
 - 所有浏览器更好的支持flexbox
+
+[FormData](https://github.com/jimmywarting/FormData)
+
+- 解决formdata在 ie 10+ 的兼容
 
 
 
@@ -896,6 +923,11 @@ IZI
 [weui](https://github.com/Tencent/weui)
 
 - 移动，微信组件
+
+[tailwindcss](https://github.com/tailwindcss/tailwindcss)
+
+- 样式与结构分离集大成
+- postcss语法，可以配合sass使用
 
 ## React
 
@@ -1001,6 +1033,11 @@ IZI
 
 - pc
 - ant-design
+
+[nutUI](https://github.com/jdf2e/nutui )
+
+- 移动端
+- 京东团队
 
 # Chrome插件
 
