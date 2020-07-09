@@ -155,7 +155,17 @@ GitHub上面的文章在[这里](https://github.com/ck18781145809/wheels/blob/ma
 
 - [Three.js](https://www.zhihu.com/question/36367846) 和 [TweenMax.js](https://www.tweenmax.com.cn/) 配合使用的敲级酷炫的图片悬停效果
 
+[direction-reveal](https://github.com/NigelOToole/direction-reveal)
+
+-  根据鼠标进入位置，展现从不同方向 展现 hover 效果 
+-  支持很多种效果，基本上包含了日常所有的情况 
+
 ## - 滚动展示动画
+
+[laxxx](https://github.com/alexfoxy/laxxx)
+
+- 滚动特效库，**推荐使用**
+-  压缩完只有 2kb，很轻量 
 
 [Wow.js](https://github.com/matthieua/WOW)
 
@@ -521,6 +531,24 @@ IZI
 
 [tui.image-editor](https://github.com/nhn/tui.image-editor)
 
+- 图片编辑器
+
+[image-cropper](https://github.com/elemefe/image-cropper)
+
+- 图片裁剪，一般用来裁剪头像
+
+# Canvas
+
+[fabric.js](https://github.com/fabricjs/fabric.js)
+
+- 基于canvas的自由创作库
+- 提供简单的api
+
+[spritejs](https://github.com/spritejs/spritejs)
+
+- 基于canvas的高性能图形系统， 支持 web、node、桌面应用和小程序的图形绘制和实现各种动画效果 
+- 360团队开发
+
 # 导航
 
 [okayNav](https://github.com/VPenkov/okayNav)
@@ -814,6 +842,28 @@ IZI
 - 浏览器运行的人脸识别库
 - 封装 tensortflow.js人脸识别核心库
 
+# js工具
+
+[javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator/)
+
+- js代码混淆工具
+
+[lodash](https://github.com/lodash/lodash/)
+
+- 非常实用的工具库
+- 内部封装了字符串、数组、对象等常见数据类型的处理函数
+
+[jtools](https://github.com/Pasoul/jtools)
+
+-   封装常用的工具函数，如日期格式化、浏览器判断等
+
+-  提高开发效率
+
+[jscodeshift](https://github.com/facebook/jscodeshift)
+
+-  将 js 内容解析成 AST 语法树，并提供一些便利的操作接口，方便我们对各个节点进行更改 
+-  如果需要去做一些底层的高级处理，就能用上这个插件
+
 # 其他
 
 [airbnb代码规范](https://github.com/airbnb/javascript)
@@ -869,9 +919,17 @@ IZI
 
 # Gulp
 
-[use-gulp ]( https://github.com/Platform-CUF/use-gulp)
+[use-gulp ](https://github.com/Platform-CUF/use-gulp)
 
 - gulp 插件整理
+
+[purifycss](https://github.com/purifycss/purifycss)
+
+-  移除没使用到的 css
+
+[javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator/)
+
+- js代码混淆工具
 
 # Eslint
 
@@ -993,6 +1051,18 @@ IZI
 [typed.js](https://github.com/mattboldt/typed.js )
 
 -  Typed是一个专注打字动画的库
+
+[Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
+
+- 后台拖拽场景的完美方案
+
+[vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
+
+- 性能不错的无限滚动方案
+
+[vuescroll](https://github.com/yvescoding/vuescroll)
+
+- 不错的PC端滚动美化
 
 ## 组件库
 
